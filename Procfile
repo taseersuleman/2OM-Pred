@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run m1A-Ensem-Model.py
+web: sh setup.sh && streamlit run Predictor.py
